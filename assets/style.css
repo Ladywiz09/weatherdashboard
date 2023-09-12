@@ -1,0 +1,54 @@
+h1 {
+	background-color: darkgrey;
+	text-align: center;
+}
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+}
+h3 {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card {
+	margin: 10px;
+}
+.card-body {
+  background-color: rgb(255, 255, 255);
+}
+
+.icons {
+	height: 70px;
+	width: 70px;
+}
+
+.search-column {
+	background-color: white;	
+}
+
+.current-city {
+	background-color: rgb(255, 255, 255);
+}
+
+.histBtnRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.histBtn {
+  margin: 5px;
+}
+
+
+.cardCurrentDate {
+  background-color: rgb(255, 255, 255);
+	font-size: 20px;
+}
+
